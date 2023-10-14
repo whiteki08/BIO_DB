@@ -1,0 +1,50 @@
+{
+  "course_title":"Fundamentals of Biology",
+  "course_description":"_Fundamentals of Biology_ focuses on the basic principles of biochemistry, molecular biology, genetics, and recombinant DNA. These principles are necessary to understanding the basic mechanisms of life and anchor the biological knowledge that is required to understand many of the challenges in everyday life, from human health and disease to loss of biodiversity and environmental quality.\n##### Course Format\n\n* * *\n\n[![Click to get started.](/images/button_start.png)](pages/syllabus) This course has been designed for independent study. It consists of four units, one for each topic. The units can be used individually or in combination. The materials for each unit include:\n\n*   **Lecture Videos** by MIT faculty.\n*   Learning activities, including **Interactive Concept Quizzes**, designed to reinforce main concepts from lectures.\n*   **Problem Sets** you do on your own and check your answers against the **Solutions** when you're done.\n*   **Problem Solving Video** help sessions taught by experienced MIT Teaching Assistants.\n*   Lists of important **Terms and Definitions.**\n*   **Suggested Topics and Links** for further study.\n*   **Exams** with **Solution Keys.**\n\n##### Content Development\n\n* * *\n\nEric Lander  \nRobert Weinberg  \nTyler Jacks  \nHazel Sive\n\nGraham Walker  \nSallie Chisholm  \nDr. Michelle Mischke",
+  "site_uid":"0b5442b2-315a-4a4d-9111-58b76e9f1666",
+  "legacy_uid":"b4a7ffae-a900-ec9e-25c0-913a9c6d3bdb","instructors": [{
+    "first_name":"Eric",
+    "last_name":"Lander",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Eric Lander"},{
+    "first_name":"Robert",
+    "last_name":"Weinberg",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Robert Weinberg"},{
+    "first_name":"Tyler",
+    "last_name":"Jacks",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Tyler Jacks"},{
+    "first_name":"Hazel",
+    "last_name":"Sive",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Hazel Sive"},{
+    "first_name":"Graham",
+    "last_name":"Walker",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Graham Walker"},{
+    "first_name":"Sallie",
+    "last_name":"Chisholm",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Sallie Chisholm"},{
+    "first_name":"Michelle",
+    "last_name":"Mischke",
+    "middle_initial":"",
+    "salutation":"Dr.",
+    "title":"Dr. Michelle Mischke"}],"department_numbers":["7"],
+  "learning_resource_types":["Problem Sets with Solutions","Exams with Solutions","Lecture Videos","Problem Sets","Exams","Tutorial Videos","Lecture Notes"],
+  "topics":[["Science","Biology"]],
+  "primary_course_number":"7.01SC",
+  "extra_course_numbers":"",
+  "term":"Fall",
+  "year":"2011",
+  "level":["Undergraduate"],
+  "image_src":"./static_resources/533499c2943939be949d7aed93782793_7-01scf11.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"An illustration showing the double helix structure of DNA","draft":false,"file":"/courses/7-01sc-fundamentals-of-biology-fall-2011/533499c2943939be949d7aed93782793_7-01scf11.jpg","file_type":"image/jpeg","image_metadata":{"caption":"An illustration showing the double helix structure of DNA (Image courtesy of the [National Human Genome Research Institute](http://www.genome.gov/)).","credit":"Image courtesy of NHGRI","image-alt":"An illustration showing the double helix structure of DNA"},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"7-01scf11","uid":"533499c2-9439-39be-949d-7aed93782793"}}
+
